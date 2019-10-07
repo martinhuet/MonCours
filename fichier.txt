@@ -5,5 +5,3 @@ Dorénavant mon fichier est modifié
 
 
 Deuxieme modification
-
-C'est deja la fin de l'exercice
